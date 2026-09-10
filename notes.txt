@@ -45,3 +45,25 @@ System.out.println(text.length());   // 11
 
 // Replace
 String newText = text.replace("World", "Java");*/
+
+
+// AIRTHMETIC OPERATORS
+package com.ok.learningjava.datatypes;
+
+public class Test {
+    public static void main(String[] args) {
+
+        int a = 5 + 3;      // result is 8
+        int b = 10 - 4;     // result is 6
+        int c = 6 * 7;      // result is 42
+        int d = 10 / 3;     // result is 3 (integer division)
+        double e = 10.0 / 3.0;  // result is 3.333... (floating-point division)
+        int f = 10 % 3;     // result is 1
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+    }
+}
