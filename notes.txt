@@ -1,0 +1,47 @@
+package com.ok.learningjava.datatypes;
+
+/* public class Test {
+    static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}*/
+
+/*public class Test{
+     static void main (String[] args){
+         // jvm --> heap memory
+         Test test = new Test();
+         Test test2 = new Test();
+     }
+}
+*/
+
+//STRINGS
+
+
+/*public class Test {
+     static void main(String[] args) {
+
+        String a = "hello";              // Stores "hello" in a
+        String b = a.toUpperCase();      // Converts a to uppercase and stores it in b
+
+        System.out.println(a);           // Prints original string
+        System.out.println(b);           // Prints uppercase string
+    }
+}*/
+
+/*String text = "Hello World";
+
+// Length
+System.out.println(text.length());   // 11
+
+// Accessing characters
+        System.out.println(text.charAt(0));   // 'H'
+
+// Substring
+        System.out.println(text.substring(0,5));   // "Hello"
+
+// Contains, startsWith, endsWith
+        System.out.println(text.contains("World"));   // true
+
+// Replace
+String newText = text.replace("World", "Java");*/
