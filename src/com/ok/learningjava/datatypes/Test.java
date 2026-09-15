@@ -111,3 +111,28 @@ package com.ok.learningjava.datatypes;
         } while (i <= 5);
     }
 } */
+
+
+//arrays
+/*public class Test {
+    public static void main(String[] args) {
+
+        int[] numbers = {10, 20, 30, 40, 50};
+
+        System.out.println(numbers[0]);
+        System.out.println(numbers[2]);
+        System.out.println(numbers[4]);
+    }
+}*/
+
+//for each in aaray
+/*public class Test {
+    public static void main(String[] args) {
+
+        int[] numbers = {10, 20, 30, 40, 50};
+
+        for (int num : numbers) {
+            System.out.println(num);
+        }
+    }
+}*/
